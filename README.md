@@ -9,6 +9,7 @@
 Config/Log4net.config
 
 在代码使用
+
 一，一种是调用静态方法
 LogHelp.Static.Debug("这里写日志 static");
 
