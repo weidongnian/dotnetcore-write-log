@@ -1,0 +1,14 @@
+/Users/weidongnian/dotnet/Log解释方案/test/bin/Debug/netcoreapp2.1/test.deps.json
+/Users/weidongnian/dotnet/Log解释方案/test/bin/Debug/netcoreapp2.1/test.runtimeconfig.json
+/Users/weidongnian/dotnet/Log解释方案/test/bin/Debug/netcoreapp2.1/test.runtimeconfig.dev.json
+/Users/weidongnian/dotnet/Log解释方案/test/bin/Debug/netcoreapp2.1/test.dll
+/Users/weidongnian/dotnet/Log解释方案/test/bin/Debug/netcoreapp2.1/test.pdb
+/Users/weidongnian/dotnet/Log解释方案/test/obj/Debug/netcoreapp2.1/test.csprojAssemblyReference.cache
+/Users/weidongnian/dotnet/Log解释方案/test/obj/Debug/netcoreapp2.1/test.csproj.CoreCompileInputs.cache
+/Users/weidongnian/dotnet/Log解释方案/test/obj/Debug/netcoreapp2.1/test.AssemblyInfoInputs.cache
+/Users/weidongnian/dotnet/Log解释方案/test/obj/Debug/netcoreapp2.1/test.AssemblyInfo.cs
+/Users/weidongnian/dotnet/Log解释方案/test/obj/Debug/netcoreapp2.1/test.dll
+/Users/weidongnian/dotnet/Log解释方案/test/obj/Debug/netcoreapp2.1/test.pdb
+/Users/weidongnian/dotnet/Log解释方案/test/bin/Debug/netcoreapp2.1/LogHelp.dll
+/Users/weidongnian/dotnet/Log解释方案/test/bin/Debug/netcoreapp2.1/LogHelp.pdb
+/Users/weidongnian/dotnet/Log解释方案/test/obj/Debug/netcoreapp2.1/test.csproj.CopyComplete

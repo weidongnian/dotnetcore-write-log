@@ -1,0 +1,9 @@
+/Users/weidongnian/dotnet/通用解决方案/LogHelp/bin/Release/netstandard2.0/LogHelp.deps.json
+/Users/weidongnian/dotnet/通用解决方案/LogHelp/bin/Release/netstandard2.0/LogHelp.dll
+/Users/weidongnian/dotnet/通用解决方案/LogHelp/bin/Release/netstandard2.0/LogHelp.pdb
+/Users/weidongnian/dotnet/通用解决方案/LogHelp/obj/Release/netstandard2.0/LogHelp.csprojAssemblyReference.cache
+/Users/weidongnian/dotnet/通用解决方案/LogHelp/obj/Release/netstandard2.0/LogHelp.csproj.CoreCompileInputs.cache
+/Users/weidongnian/dotnet/通用解决方案/LogHelp/obj/Release/netstandard2.0/LogHelp.AssemblyInfoInputs.cache
+/Users/weidongnian/dotnet/通用解决方案/LogHelp/obj/Release/netstandard2.0/LogHelp.AssemblyInfo.cs
+/Users/weidongnian/dotnet/通用解决方案/LogHelp/obj/Release/netstandard2.0/LogHelp.dll
+/Users/weidongnian/dotnet/通用解决方案/LogHelp/obj/Release/netstandard2.0/LogHelp.pdb
